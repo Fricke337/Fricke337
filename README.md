@@ -1,4 +1,4 @@
-# Oii! Eu sou Fricke, sinta-se à vontade 😊
+# Oii! Eu sou Fricke, sinta-se à vontade :)
 
 ### Atualmente estou focando meus estudos em **Back-end** e **Lógica de Programação**
 
