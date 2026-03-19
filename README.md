@@ -4,6 +4,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fricke337&theme=github-compact&hide_border=true&title=Fricke337%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake.svg">
+  <img alt="Arcade Contributions" src="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Fricke337&label=Profile%20views&color=0e75b6&style=flat" alt="Fricke337" /> 
 </p>
@@ -32,9 +38,3 @@
 <div align="center"> 
   <img src="https://i.pinimg.com/originals/36/56/1a/36561ac2de9a4fdf22be032a3accead9.gif" width="70%">
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fricke337/Fricke337/output/github-contribution-grid-snake.svg">
-</picture>
