@@ -1,6 +1,6 @@
 # Oii! Eu sou Fricke, sinta-se à vontade :)
 
-### Atualmente estou focando meus estudos em **Back-end** e **Lógica de Programação**
+### Desenvolvedor Back-end, focado em lógica de programação e automação de sistemas
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fricke337&theme=github-compact&hide_border=true&title=Fricke337%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 
@@ -16,9 +16,10 @@
 
 ---
 
-- 🌱 **Atualmente aprendendo:** C++, C# e Ecossistema .NET.
+- 🚀 **Já construí:** bots de automação, plataformas web completas e sites sob demanda para clientes.
+- 🌱 **Expandindo conhecimento em:** C++, C# e ecossistema .NET.
 - 👯 **Interesse em colaborar:** Projetos Open Source, desafios de lógica de Back-end e grupos de estudo.
-- 🤝 **Busco ajuda com:** Conceitos avançados de C++, arquitetura de APIs e boas práticas de desenvolvimento.
+- 🤝 **Sempre trocando ideia sobre:** conceitos avançados de C++, arquitetura de APIs e boas práticas de desenvolvimento.
 - ⚡ **Curiosidade:** Eu realmente gosto mais de debugar erros de lógica do que estilizar botões no CSS!
 
 ---
